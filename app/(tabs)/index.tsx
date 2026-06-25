@@ -64,7 +64,6 @@ export default function App() {
                                 />
 
 
-                                <UpcomingSubscriptionsCard data={UPCOMING_SUBSCRIPTIONS[0]}/>
 
                             </View>
 
